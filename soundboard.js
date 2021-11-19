@@ -1,8 +1,8 @@
 var button1 = index.html.getElementById('first_button')
 var button2 = index.html.GetElementById("second_button")
 var button3 = index.html.GetElementById("third_button")
-var audio1 = new Audio("fanfare_x.wav")
-var audio2 = new Audio("trumpet_x.wav")
+var audio1 = index.html.getElementById("firstaudio")
+var audio2 = index.html.getElementById("secondaudio")
 
 /*button1.addEventListener('click', function () {
     audio1.play();
