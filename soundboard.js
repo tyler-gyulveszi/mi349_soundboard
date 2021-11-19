@@ -3,6 +3,7 @@ var button2 = index.html.GetElementById("second_button")
 var button3 = index.html.GetElementById("third_button")
 var audio1 = index.html.getElementById("firstaudio")
 var audio2 = index.html.getElementById("secondaudio")
+var audio3 = index.html.getElementById("thirdaudio")
 
 /*button1.addEventListener('click', function () {
     audio1.play();
